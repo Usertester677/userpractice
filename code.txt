@@ -1,0 +1,2 @@
+hi this is replicate of loka.txt
+in this file we can get all details about loka.txt
